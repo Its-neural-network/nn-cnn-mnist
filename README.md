@@ -1,4 +1,4 @@
-# nn-cnn-mnist-sample
+# nn-cnn-mnist
 This is a sample test code for mnist data set
 
 ### Sample images of DataSet  

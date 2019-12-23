@@ -1,5 +1,5 @@
 # nn-cnn-mnist
-This is a sample test code for mnist data set
+This is a sample test code for mnist data set. This code has been taken and modified from the official keras documentation.
 
 ### Sample images of DataSet  
 <p align="left">
